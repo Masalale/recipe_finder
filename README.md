@@ -104,6 +104,23 @@ This apporiach demonstrated the program works correctly inmultiple indipendent e
 
 ### Deployment Screenshots:
 
+`Exact code written to give this output can be viewd from the tab bar of the terminal`
+
+![Docker Servers Running](Screenshots/both_servers_running.png)
+*Docker Servers Running*
+
+![Web01-Instance](Screenshots/web01.png)
+*Web01-Instance*
+
+![Web02-Instance](Screenshots/web02.png)
+*Web02-Instance*
+
+![Local Docker](Screenshots/local_docker.png)
+*Local Docker*
+
+![Main.py Output](Screenshots/local.png)
+*Main.py Output*
+
 ### Load Balancer
 
 As a CLI application users can directly interact with the program throught the terminal, which renders the work of a load balance inapplicable. Load balancers are designed for web applications that handle HTTP requests, not for CLI tools.
